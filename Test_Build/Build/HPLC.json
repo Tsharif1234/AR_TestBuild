@@ -1,0 +1,16 @@
+{
+"companyName": "Plastifikator",
+"productName": "Client_HPLC",
+"productVersion": "0.1",
+"dataUrl": "HPLC.data.unityweb",
+"wasmCodeUrl": "HPLC.wasm.code.unityweb",
+"wasmFrameworkUrl": "HPLC.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.4f1"
+}
